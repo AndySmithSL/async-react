@@ -17,6 +17,7 @@ class App extends Component {
         </p>
         <p>Testing Git branching</p>
         <p>And make another change</p>
+        <p>a</p>
         
         <SearchSubreddit />
         <VisibleSubredditList />
