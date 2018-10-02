@@ -16,6 +16,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Testing Git branching</p>
+        <p>And make another change</p>
         
         <SearchSubreddit />
         <VisibleSubredditList />
